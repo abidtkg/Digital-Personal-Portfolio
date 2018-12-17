@@ -17,12 +17,14 @@
   height: 400px;
   width: 700px;
   margin-left:15%
+
 }
 #main-title{
   height: 200px;
   width: 700px;
   background-color: transparent;
 float: right;
+padding-top: 50px;
 
 }
 #main-subtitle{
