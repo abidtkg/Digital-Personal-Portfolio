@@ -15,7 +15,7 @@
     margin-left: 50px;
 }
 #nav-tab{
-    background-color:aliceblue;
+    background-color: aliceblue;
     float: right;
     width: 50%;
     height: 70px;
@@ -34,7 +34,13 @@
 #nav-tab ul li a{
     text-decoration: none;
     font-family: 'Montserrat';
-    font-size: 10px;
+    font-size: 15px;
     color: black;
 
+}
+#nav-tab ul li a:hover{
+  background-color: #3370ca;
+  border-radius: 3px;
+  transition: .5s;
+  color: white;
 }
