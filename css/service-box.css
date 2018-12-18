@@ -10,7 +10,7 @@
   height: 40%;
 }
 #main-container-2-bottom-part{
-  background-color: #e67e22;
+  background-color: transparent;
   width: 100%;
   height: 60%;
 }
@@ -59,16 +59,26 @@
 
 }
 .inline-container-2{
-  background-color: #f1c40f;
+  background-color: transparent;
   height: 20%;
   width: 100%;
 
 }
+.inline-container-2 > h1{
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  text-transform: uppercase;
+
+}
 .inline-container-3{
-  background-color: #fff;
+  background-color: transparent;
   height: 30%;
   width: 100%;
 
+}
+.inline-container-3 > p{
+  font-family: 'Montserrat';
+  text-align: center;
 }
 #main-container-2-bottom-box-container-2{
   background-color: transparent;
