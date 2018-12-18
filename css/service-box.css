@@ -77,8 +77,9 @@
 
 }
 .inline-container-3 > p{
-  font-family: 'Montserrat';
+  font-family: 'Roboto', sans-serif;
   text-align: center;
+  text-transform: lowercase;
 }
 #main-container-2-bottom-box-container-2{
   background-color: transparent;
